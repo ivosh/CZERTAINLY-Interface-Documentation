@@ -70,6 +70,7 @@
         <module>doc-openapi-core-notification</module>
         <module>doc-openapi-core-approval</module>
         <module>doc-openapi-core-other</module>
+        <module>doc-openapi-core-signature-profile</module>
         <module>doc-openapi-core-workflows</module>
         <module>doc-openapi-protocol-acme</module>
         <module>doc-openapi-protocol-cmp</module>
